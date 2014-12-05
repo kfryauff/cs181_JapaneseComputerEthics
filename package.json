@@ -1,11 +1,11 @@
 {
-  "name": "IntroHCI",
+  "name": "JapanEthics",
   "version": "0.0.1",
-  "author": "Intro HCI Staff",
+  "author": "Krista Fryauff; Chaely Kanichy; Olivia Montoya; Max Pincus",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/IntroHCI/lab4"
+    "url": "https://github.com/kfryauff/cs181_JapaneseComputerEthics"
   },
   "license": "MIT",
 

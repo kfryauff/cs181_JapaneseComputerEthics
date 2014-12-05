@@ -9,7 +9,10 @@ exports.projectInfo = function(req, res) { 
 exports.view = function(req, res) {
 	var projectID = req.params.id;
 	var project = getProjectData(projectID);
-	res.render('project', project);
+	res.render('project', {
+		project: project,
+		projects: projects
+	});
 }
 
 function getProjectData(projectID) {

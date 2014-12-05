@@ -16,7 +16,7 @@
 
 .jumbotron:after {
      content:"";
-     background: url("../images/lorempixel.jumbotron.jpeg");
+     background: url("../images/jp_jumbotron.jpg");
      opacity: 0.2;
      top: 0;
      left: 0;
@@ -24,6 +24,8 @@
      right: 0;
      position: absolute;
      z-index: -1;	
+     border-bottom-right-radius: 10px;
+     border-bottom-left-radius: 10px;
 }
 
 .jumbotron p {
@@ -32,6 +34,10 @@
 
 .project a {
      text-align: center;
+}
+
+.project .thumbnail:hover{
+     background-color: #DAD7CB;
 }
 
 .project .details {

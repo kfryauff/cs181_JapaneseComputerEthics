@@ -3,94 +3,38 @@
 	[
 		{
 			"id": 1,
-			"title": "Waiting in Line",
-			"date": "January 9",
-			"summary": "<p>Think about some of the designs that you consider to be great innovations. Quite likely, they came about because the design team was able to see a new problem or opportunity, or reframe things in a new way. As the light bulb joke illustrates, an important strategy of successful designers is to reframe things so that... we can see things in a new light. This first week's exercise is intended to work your perception and reframing 'muscles'. How creative can you be? (Later exercises will work different 'muscles'.)</p> <p>Any questions about this assignment should be posed to the forums and will be answered promptly by the staff. </p> <p>For this first project, <b>your mission is to redesign the experience of waiting in line</b>.</p> <p>An important part of the designer's role is to come up with a point of view. For example, your point of view might be that standing in line is intrinsic, but being bored is not.</p> <p>What can we do with our time that is more productive, more interesting, or more entertaining than just wait? Maybe it's reading the news, playing a game, or preempt the parents by giving them a surprise call? Alternatively, your point of view might be to eliminate the line by preordering, or hire people to act as placeholders in the line? Or maybe this is precious time for us to do nothing? A few minutes to space out, or quickly center ourselves. No matter what you come up with, it should be something that <b>improves the experience of standing in line</b>. For one jumping off point, <a href='http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?pagewanted=all&amp;_r=1&amp;''>here's a few thoughts from the New York Times</a>.</p> <p>This assignment will introduce iterative design so that during the main course project, the steps of the design process will be more familiar. For further explanations about the design process, have a look at the <b>d.school Bootcamp Bootleg</b> <a href='http://dschool.stanford.edu/use-our-methods/'>here</a>.</p>",
-			"image": "lorempixel.people.1.jpeg"
+			"title": "Ethics in Japan",
+			"subtitle": "Eastern Ideology and Collectivism",
+			"date": "",
+			"summary": "<p>Japanese ethics are highly influenced by the interdependent nature of Japanese society. From a psychological perspective, this is characterized by being in sync with other members of society, maintaining a high level of personal scrutiny in order to best ensure group harmony. This interdependency can be traced back to multiple Eastern religions and philosophies, whether it be Shinto-Buddhism, Confucianism, or Taoism.  Each school of thought promotes interdependence and collectivism through an emphasis on concepts like empathy, compassion, social order and a dutiful understanding of a “right” way of being.</p><p>Consider how collectivist ideals are reflected in the handling of personal data.  The purpose of the Act on Personal Protection and Information, passed in Japan in 2003, is to “protect the rights and interests of individuals while taking consideration of the usefulness of personal information, in view of a remarkable increase in the utilization of personal information due to development of the advanced information and communications society.”  Even though protection of individuals is the underlying premise, there is an emphasis on the usefulness of personal data to enable progression in industry.  This act acknowledges the positive potential for personal data usage, but focuses on this potential from a societal perspective as opposed to an individualistic one.  Promoting industry is a clause cited in Japanese Patent and Trademark Laws as well; there is a consistent implicit de-emphasis on ownership of the personal property by focusing on the industrial ramifications of personal protection.</p><p>Ownership (this focuses on privacy, but privacy is framed as the ownership of personal data) <br>Actively enacting ownership carries negative cultural connotations in Japanese culture, which further explains this.  “There is no Japanese word corresponding precisely to the English word ‘privacy.’ Many Japanese use the word ‘puraibashi’, an adopted word for privacy, without clearly understanding its meaning.”  Privacy is a self-serving concept in Japanese culture; assertiveness is considered a vice.  Therefore, actively designating property as one’s own is already a breach of the social contract.  Additionally, since Japanese language and culture promotes a connection between the self (uchi), members of family (mi-uchi), and friends and colleagues (nakama-uchi), there appears to be little gain in gaining sole possession of property. </p>",
+			"image": "jp_ethics.jpg",
+			"img-src": "http://www.perjalananhati-ndoddybumi.com/human-resource/japanese-works-ethics/"
 		},
 		{
 			"id": 2,
-			"title": "Needfinding",
-			"date": "January 16",
-			"summary": "<p>As Yogi Berra said, you can observe a lot just by watching. Watching how people do things is a great way to learn their goals and values, and come up with design insight. We call this <b>needfinding</b>. This assignment helps you train your eyes and ears to come up with design ideas. Your goal is to uncover user needs, breakdowns, clever hacks, and opportunities for improvement.</p>",
-			"image": "lorempixel.city.1.jpeg"
+			"title": "Japanese Business Ethics",
+			"subtitle": "",
+			"date": "",
+			"summary": "<p>Japanese society is collectivist, focusing on the needs and rights of the group over those of the individual. Duty to one’s groups is an important ethical concept, as is “fairness.” This is relevant to business as it concerns the relationships between employees and the business hierarchy, as well as what actions are taken and when. The religious and philosophical foundations of Japan consist of Shintoism, Buddhism and the writing of the Chinese sage Confucius. Of course, religion cannot explain all managerial practices, it is apparent that these beliefs have greatly influenced business practices. Depending on the size of a business, protection laws vary. </p>",
+			"image": "jp_business.jpg",
+			"img-src": "https://www.flickr.com/photos/shiridenovo/2589334919/"
 		},
 		{
 			"id": 3,
-			"title": "Prototyping",
-			"date": "January 23",
-			"summary": "<p>This is the first team assignment. Review and share the user needs you brainstormed. This week, you'll flesh out your design ideas by creating a point of view, seeking inspiration, storyboarding, and making paper prototypes. These are the blueprints for the mobile web application you'll make.</p>",
-			"image": "lorempixel.technics.1.jpeg"
+			"title": "Japanese Perspective: Intellectual Property",
+			"subtitle": "Communal Accountability & Redefining Ownership",
+			"date": "",
+			"summary": "<p>Before we get into IP in Cyber Ethics in Japan, its important to understand intellectual property laws in order to weigh its impact on Japanese society. The Japanese Privacy Law is similar to the EU Directive, in the sense that it establishes a required framework for Japan’s ministries to implement through detailed regulations in all sectors of Japanese life. The Prime Minister issued a Basic Policy in April 2004, which later became the basis for Japan’s Privacy Law. The Prime Minister of Japan is appointed by the Emperor of Japan, who is the ceremonial monarch in Japan’s system of the constitutional monarchy. He is the highest authority of the Shinto religion as he and his family are said to be direct descendants of Amaterasu. This appointment follows the candidate for prime minister being designated by the Diet, Japan’s bicameral legislature, from among its members. He must enjoy the confidence of the House of Representatives to remain in office. This underscores the presence of traditional ways of thinking in modern Japanese politics and the desire for co-presence and harmony between traditional beliefs and ethics and a modern political and business world.</p><p>The Act aims to protect the rights and interests of individuals while taking consideration of the usefulness of personal information due to development of the advanced information and communications society. Under the Privacy Law, personal information is broadly defined. It covers anything that can be linked to a specific person’s identity including all publicly available information. However, under that definition, its becomes difficult to identify any fact about a person that does not qualify as “personal information”. </p><p>In contrast to the U.S., individuals must be notified and told why and how their personal data will be used in Japan. For instance, employees are provided with information in sufficient detail such that they can understand the use of their data, whereas in the US many contracts include how and when their data will be used in small print, without notice other than initial agreements. In the U.S., companies are assumed to not have their best interest in the individuals and an emphasis on the company themselves. However in Japan, they keep in mind their users. If the purpose of stated usage changes, a new notice is sent to Japanese employees or users. There is less of a cultural desire to protect the needs of the user in an individualistic society, where the well-being of oneself and one’s company will likely be considered before that of others one interacts with in society.</p>",
+			"image": "jp_ip.jpg",
+			"img-src": "http://commons.wikimedia.org/wiki/File:Against_Intellectual_Property_cover.jpg"
 		},
 		{
 			"id": 4,
-			"title": "Heuristic Evaluation",
+			"title": "Japanese Intellectual Property Laws",
+			"subtitle": "Interdependence in Computer Ethics",
 			"date": "January 30",
-			"summary": "<p>As Carolyn Snyder writes, 'Paper prototyping is a variation of usability testing where the representative users perform realistic tasks by interacting with a paper version of the interface that is manipulated by a person 'playing computer' who doesn't explain how the interface is intended to work.' In this assignment, your group will conduct heuristic evaluations (HEs) of your paper prototypes and you will individually help out other groups by evaluating theirs. This will complete the prototyping phase of the project, providing you with the feedback you need to begin implementing.</p>",
-			"image": "lorempixel.abstract.1.jpeg"
-		},
-		{
-			"id": 5,
-			"title": "Skeleton and a Plan",
-			"date": "February 6",
-			"summary": "<p>Review the feedback you got last week from the Heuristic Evaluations of your prototypes. Distill the HE results into a list of concrete changes you want to make to your prototype. Use what worked, and improve what didn't. If you haven't already, make a decision about the prototype you are going with. This could be one of the two you tested or a combination of them. Again, take the time you need. This is what you will be working on for the rest of the course, so make sure you will feel invested in it.</p>",
-			"image": "lorempixel.abstract.8.jpeg"
-		},
-		{
-			"id": 6,
-			"title": "Meat on the Bones",
-			"date": "February 13",
-			"summary": "<p>Functionality functionality functionality! Continue developing your interactive prototypes in accordance with your development plan. Also, update your development plan as you discover more about what you want to prioritize, what you can expect to implement, and what you may need to mock up. The goal is for you to complete the interaction flow this week.</p>",
-			"image": "lorempixel.people.2.jpeg"
-		},
-		{
-			"id": 7,
-			"title": "Ready for Testing",
-			"date": "February 20",
-			"summary": "<p>Crunch time! Your interactive prototypes have to be <b>ready for user testing</b> by the end of this week.</p>",
-			"image": "lorempixel.technics.2.jpeg"
-		},
-		{
-			"id": 8,
-			"title": "User Test Results",
-			"date": "February 27",
-			"summary": "<p>The goal of this assignment is to launch a user test. To get the kinks out of your application, first test it with a couple of in-person users.</p><p>Any questions about this assignment should be posed to the forums and will be answered promptly by the staff.</p>",
-			"image": "lorempixel.city.2.jpeg"
-		},
-		{
-			"id": 9,
-			"title": "Results!",
-			"date": "March 6",
-			"summary": "<p>What did you find in your study?</p>",
-			"image": "lorempixel.technics.3.jpeg"
-		},	
-		{
-			"id": 10,
-			"title": "Social computing",
-			"date": "March 13",
-			"summary": "<p>Design for lots of people</p>",
-			"image": "lorempixel.people.4.jpeg"
-		},		
-		{
-			"id": 11,
-			"title": "Ubiquitous computing",
-			"date": "March 20",
-			"summary": "<p>Computers everywhere!</p>",
-			"image": "lorempixel.technics.4.jpeg"
-		},	
-		{
-			"id": 11,
-			"title": "Design Tools",
-			"date": "March 27",
-			"summary": "<p>Make design better!</p>",
-			"image": "lorempixel.abstract.4.jpeg"
-		},							
-		{
-			"id": 12,
-			"title": "Final presentation",
-			"date": "April 3",
-			"summary": "<p>Show the world what you've made!</p>",
-			"image": "lorempixel.technics.8.jpeg"
-		}	
+			"summary": "<p>In the Japanese society, education in ethics and morality is standard. With the expansion of the Japanese cyber presence, that education also attempted to include computer ethics, however, the product of expanding technology was a severe cyberbullying issue that has not been adequately addressed by this moral/ethical education. There are concerns of how easily accessible online paraphernalia is. Because of this, the ministry of communications began regulating internet use in 2010. As suggested in our discussion on Kant’s Categorical Imperative, it is increasingly difficult to determine universal laws distinguishing right from wrong in an absolute manner, Japan’s finals report on a Comprehensive Legal System for Communications and Broadcasting faces similar discrepancies as it is difficult for anyone regulating the internet the make judgements regarding concrete harmfulness. Despite having freedom of information laws similar to the US, Japan’s media is already heavily regulated and subject to much self-censorship. However when citizens are permitted an unregulated internet, there is an increased tendency of libellous slurs posted on forums. The 2001 Provider Liability Limitation Act provided guidelines for internet service providers to self-regulate illegal and indecent content, libel, infringements on IP, and the release of private information, but provides no means of enforcing content restrictions. Japanese law is proving ineffectual against sites as in some instances the current law had only a limited effect on sites deemed harmful and in others the founders of popular Japanese websites have not responded to the many of the lawsuits against them. Anonymity of the internet is challenging collective social norms. </p><p>Another stress on the Japanese societal value structure is the expansion of international markets. Companies in Japan are among the world’s most vulnerable and hacking attacks on state entities have more than doubled since 2010 to one every 30 seconds according to data from Japan’s government and the Ponemon Institute, a U.S based security researcher. NISC reported that the country has a shortage of 80,000 information security engineers, and that most of the ones in place lack the skills to counter online threats. Additionally, only half of companies in Japan have implemented an IT security policy. This vulnerability is perhaps a consequence of incorrectly extrapolating the collectivist concept of trust to a global scale. Members of other societies may see a lack of explicit policing as an opportunity to freely gather data, where the unwritten expectation is the opposite. There is also a widely accepted belief that cybersecurity breaches are something that just can’t happen in Japan. The validity given to a commonly held belief in a collectivist society may make it more difficult for the truth to become accepted if it is contrary to such a belief. It is only recently that the Japanese government has seriously considered intervening to combat the hacking epidemic. A recently proposed law would name NISC the cybersecurity coordinator to the cabinet and would require companies to report all cybersecurity incidents. Some Japanese companies avoid reporting incidents in order to not risk their company reputation. This is also a manifestation of traditional Japanese beliefs on loyalty to one’s group, honor and “saving face.”</p>",
+			"image": "lorempixel.technics.1.jpeg"
+		}
 	]
 }

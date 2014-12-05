@@ -8,10 +8,10 @@ $(document).ready(function() {
 /*
  * Function that is called when the document is ready.
  */
-function initializePage() {
-	$('.likeBtn').click(likedAction);
-}
+// function initializePage() {
+// 	$('.likeBtn').click(likedAction);
+// }
 
-function likedAction(){
-	ga("send", "event", "like", "click");
-}
+// function likedAction(){
+// 	ga("send", "event", "like", "click");
+// }
