@@ -1,3 +1,7 @@
+body, .container {
+     height: auto;
+}
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
@@ -48,6 +52,16 @@
      width: 200px;
      margin: 10px 10px 10px 0px;
      float: left;
+}
+
+.bottom-menu {
+     position: static;
+     bottom:0px;
+     height:100px;
+}
+
+.bottom-menu .thumbnail {
+     height: 80px;
 }
 
 .row .thumbnail h4 {
