@@ -30,22 +30,25 @@
       </div>
     </div>
 
-    
-		{{{project.summary}}}
+    <div class="project-content">
+		  {{{project.summary}}}
+    </div>
 
-    <p><a href="/">Back &raquo;</a></p>
-
+    <br><br>
+    <div class="menu-container">
+      <a href="/"><div class="btn btn-default btn-block"><strong>Home &raquo;</strong></div></a>
     <div class="bottom-menu">
       {{#each projects}}
-        <div class="project col-md-3" id="{{id}}">
-          <div class="thumbnail">
+        <div class="project" id="{{id}}">
+          <div class="menuitem">
             <a href="/project/{{id}}">
               <img src="/images/{{image}}" alt="Lorem Pixel image" class="img-responsive">
-              <h4>{{title}}</h4>
+              <!-- <h4>{{title}}</h4> -->
             </a>
           </div>
         </div>
       {{/each}}
+    </div>
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

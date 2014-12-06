@@ -1,5 +1,5 @@
 body, .container {
-     height: auto;
+     height: 100%;
 }
 
 /* applies to anything of class "example-class-selector" */
@@ -54,14 +54,38 @@ body, .container {
      float: left;
 }
 
-.bottom-menu {
-     position: static;
-     bottom:0px;
-     height:100px;
+.project-content {
+     width: 100%;
+     padding: 0px 0px 110px 0px;
 }
 
-.bottom-menu .thumbnail {
-     height: 80px;
+.menu-container {
+     text-align: center;
+     height: auto;
+     width: inherit;
+     bottom: 0px;
+     position: fixed;
+     
+     background-color: #DAD7CB;
+     border-radius: 5px;
+}
+
+.bottom-menu {
+     position: relative;
+     bottom: 2px;
+     width: inherit;
+     height: auto;
+     overflow: hidden;
+     text-align: center;
+     padding: 5px;
+}
+
+.bottom-menu .menuitem {
+     text-align: center;
+     width: 24%;
+     float: left;
+     margin: 0 .5%;
+     overflow: hidden;
 }
 
 .row .thumbnail h4 {
